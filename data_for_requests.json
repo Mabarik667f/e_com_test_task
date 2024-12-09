@@ -1,0 +1,28 @@
+{
+	"additionalProp1": "string",
+	"additionalProp2": "+7 444 333 22 11",
+	"additionalProp3": "test.example@gmail.com",
+	"date": "2024-11-26",
+	"date2": "26.11.2024"
+},
+{
+	"email": "test.example@gmail.com",
+	"user_name": "Name",
+	"password": "password",
+	"password2": "password"
+},
+{
+	"created": "2024-11-12",
+	"product": "Product",
+	"address": "Address",
+	"phone_for_order": "+7 999 888 77 66"
+},
+{
+	"user_name": "Name",
+	"order": "Order",
+	"phone": "+7 111 222 33 44"
+},
+{
+	"email": "test.example@gmail.com",
+	"password": "password"
+}

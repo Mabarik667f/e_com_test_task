@@ -24,7 +24,7 @@ def insert_values() -> None:
     db.insert(
         {
             "name": "Order history form template",
-            "username": "text",
+            "user_name": "text",
             "order": "text",
             "phone": "phone",
         }
